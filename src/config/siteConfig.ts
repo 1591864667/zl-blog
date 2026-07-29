@@ -6,7 +6,7 @@ const SITE_LANG = "zh_CN";
 
 export const siteConfig: SiteConfig = {
 	// 站点标题
-	title: "c测试",
+	title: "Z.L Blog",
 
 	// 站点副标题
 	subtitle: "思考 · 记录 · 分享",
